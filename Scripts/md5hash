@@ -1,0 +1,5 @@
+
+MD5 hash of .\mdrProvisioningScript.ps1:
+DA0C04BCF5A980CD7937CAB02AC73A59
+
+certutil -hashfile <file> MD5
