@@ -771,7 +771,7 @@
 						        "visible": true,
 						        "options": {
 							        "text": "MDR Powershell script",
-									"uri": "https://github.com/Cespinoz019/CreateAzSentinel/blob/main/mdr/Scripts/mdr-createServicePrincipals.ps1"
+									"uri": "https://raw.githubusercontent.com/Difenda/MDR-Onboard/main/Scripts/mdrProvisioningScript.ps1"
 
 						        }
 					        }
