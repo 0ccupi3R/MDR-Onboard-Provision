@@ -771,8 +771,7 @@
 						        "visible": true,
 						        "options": {
 							        "text": "MDR Powershell script",
-									"uri": "https://raw.githubusercontent.com/Difenda/MDR-Onboard/main/Scripts/mdrProvisioningScript.ps1"
-
+									"uri": "[![MDR Powershell script](https://raw.githubusercontent.com/Difenda/MDR-Onboard/main/Scripts/mdrProvisioningScript.ps1)"
 						        }
 					        }
 						]
